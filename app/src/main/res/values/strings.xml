@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">learningApp</string>
+    <string name="btn">ADD</string>
+    <string name="text">Your Total Amount</string>
+    <string name="amount">₹0</string>
+    <string name="btn2">Show Tag</string>
+    <string name="hundred">100</string>
+    <string name="fivehundred">500</string>
+    <string name="twothousand">2000</string>
+</resources>
